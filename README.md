@@ -61,6 +61,6 @@ python scraper.py 3
 
 https://github.com/user-attachments/assets/98167f91-6bc9-4756-803a-82696b31a782
 
-
+CREDIT TO USER rbuttery I STR8 RIPPED BROS SELENIUM SETUP AND HIS FUNCTION TO CLOSE THE POPUPS ON INDEED :D 
 
 This project is licensed under the MIT License. See the LICENSE file for details.
