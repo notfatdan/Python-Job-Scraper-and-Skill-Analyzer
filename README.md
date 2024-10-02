@@ -56,4 +56,11 @@ Example
 python scraper.py 3
 ```
 
+## Demo
+
+
+https://github.com/user-attachments/assets/98167f91-6bc9-4756-803a-82696b31a782
+
+
+
 This project is licensed under the MIT License. See the LICENSE file for details.
